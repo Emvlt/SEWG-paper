@@ -1,0 +1,645 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.6)  21 NOV 2021 14:03
+entering extended mode
+**./core.tex
+(core.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.
+cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+) ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+ ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen160
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks18
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks19
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box49
+\extrarowheight=\dimen170
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box50
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf.sty"
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count194
+\multirow@dima=\skip56
+\bigstrutjot=\dimen171
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\subfiles.
+sty"
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\import.sty"
+Package: import 2020/04/01  v 6.2
+)) (sections/commands.tex)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen172
+\captionmargin@=\dimen173
+\captionwidth=\dimen174
+\caption@tempdima=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1139.
+)
+\c@KVtest=\count195
+\sf@farskip=\skip57
+\sf@captopadj=\dimen179
+\sf@capskip=\skip58
+\sf@nearskip=\skip59
+\c@subfigure=\count196
+\c@subfigure@save=\count197
+\c@lofdepth=\count198
+\c@subtable=\count199
+\c@subtable@save=\count266
+\c@lotdepth=\count267
+\sf@top=\skip60
+\sf@bottom=\skip61
+)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box51
+) (core.aux)
+\openout1 = `core.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+-- Lines per column: 58 (exact).
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen180
+\scratchbox=\box52
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen181
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks24
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (sections/introduction.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/emile/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+])
+(sections/proposedApproach.tex [2]) (sections/Datasets.tex)
+(sections/implementationDetails.tex [3]) (sections/results.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 13.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+9.
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 35.
+
+[4]) (sections/conclusion.tex) (sections/bibliography.tex [5])
+(sections/images.tex
+<graphics/methodOverview.png, id=31, 544.28343pt x 305.64188pt>
+File: graphics/methodOverview.png Graphic file (type png)
+<use graphics/methodOverview.png>
+Package pdftex.def Info: graphics/methodOverview.png  used on input line 6.
+(pdftex.def)             Requested size: 258.0pt x 144.87825pt.
+<graphics/GAN_training.png, id=33, 544.28343pt x 305.64188pt>
+File: graphics/GAN_training.png Graphic file (type png)
+<use graphics/GAN_training.png>
+Package pdftex.def Info: graphics/GAN_training.png  used on input line 12.
+(pdftex.def)             Requested size: 258.0pt x 144.87825pt.
+<graphics/sophiabeads_obj_slice.png, id=34, 887.4756pt x 887.4756pt>
+File: graphics/sophiabeads_obj_slice.png Graphic file (type png)
+<use graphics/sophiabeads_obj_slice.png>
+Package pdftex.def Info: graphics/sophiabeads_obj_slice.png  used on input line
+ 20.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/sophiabeads_cad_slice.png, id=35, 887.4756pt x 887.4756pt>
+File: graphics/sophiabeads_cad_slice.png Graphic file (type png)
+<use graphics/sophiabeads_cad_slice.png>
+Package pdftex.def Info: graphics/sophiabeads_cad_slice.png  used on input line
+ 23.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/sophiabeads_obj_sin.png, id=36, 887.4756pt x 887.4756pt>
+File: graphics/sophiabeads_obj_sin.png Graphic file (type png)
+<use graphics/sophiabeads_obj_sin.png>
+Package pdftex.def Info: graphics/sophiabeads_obj_sin.png  used on input line 2
+6.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/sophiabeads_cad_sin.png, id=37, 887.4756pt x 887.4756pt>
+File: graphics/sophiabeads_cad_sin.png Graphic file (type png)
+<use graphics/sophiabeads_cad_sin.png>
+Package pdftex.def Info: graphics/sophiabeads_cad_sin.png  used on input line 2
+9.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/sophia_sin_example.png, id=38, 887.4756pt x 887.4756pt>
+File: graphics/sophia_sin_example.png Graphic file (type png)
+<use graphics/sophia_sin_example.png>
+Package pdftex.def Info: graphics/sophia_sin_example.png  used on input line 36
+.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/sophia_sin_mask.png, id=39, 887.4756pt x 887.4756pt>
+File: graphics/sophia_sin_mask.png Graphic file (type png)
+<use graphics/sophia_sin_mask.png>
+Package pdftex.def Info: graphics/sophia_sin_mask.png  used on input line 39.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/syn_obj_slice.png, id=40, 887.4756pt x 887.4756pt>
+File: graphics/syn_obj_slice.png Graphic file (type png)
+<use graphics/syn_obj_slice.png>
+Package pdftex.def Info: graphics/syn_obj_slice.png  used on input line 47.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/syn_cad_slice.png, id=41, 887.4756pt x 887.4756pt>
+File: graphics/syn_cad_slice.png Graphic file (type png)
+<use graphics/syn_cad_slice.png>
+Package pdftex.def Info: graphics/syn_cad_slice.png  used on input line 50.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/syn_obj_sin.png, id=42, 887.4756pt x 887.4756pt>
+File: graphics/syn_obj_sin.png Graphic file (type png)
+<use graphics/syn_obj_sin.png>
+Package pdftex.def Info: graphics/syn_obj_sin.png  used on input line 53.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/syn_cad_sin.png, id=43, 887.4756pt x 887.4756pt>
+File: graphics/syn_cad_sin.png Graphic file (type png)
+<use graphics/syn_cad_sin.png>
+Package pdftex.def Info: graphics/syn_cad_sin.png  used on input line 56.
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/syn_obj_holes_img.png, id=44, 887.4756pt x 887.4756pt>
+File: graphics/syn_obj_holes_img.png Graphic file (type png)
+<use graphics/syn_obj_holes_img.png>
+Package pdftex.def Info: graphics/syn_obj_holes_img.png  used on input line 63.
+
+(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
+<graphics/reconstructions128_target.jpg, id=45, 904.8204pt x 904.8204pt>
+File: graphics/reconstructions128_target.jpg Graphic file (type jpg)
+<use graphics/reconstructions128_target.jpg>
+Package pdftex.def Info: graphics/reconstructions128_target.jpg  used on input 
+line 71.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+
+Underfull \hbox (badness 1735) in paragraph at lines 71--71
+[]\T1/ptm/m/n/8 (a) |Tar-get re-con-struc-tion with
+ []
+
+<graphics/reconstructions128_noInterpolation.jpg, id=46, 904.8204pt x 904.8204p
+t>
+File: graphics/reconstructions128_noInterpolation.jpg Graphic file (type jpg)
+<use graphics/reconstructions128_noInterpolation.jpg>
+Package pdftex.def Info: graphics/reconstructions128_noInterpolation.jpg  used 
+on input line 74.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+<graphics/reconstructions128_linearInterpolation.jpg, id=47, 904.8204pt x 904.8
+204pt>
+File: graphics/reconstructions128_linearInterpolation.jpg Graphic file (type jp
+g)
+<use graphics/reconstructions128_linearInterpolation.jpg>
+Package pdftex.def Info: graphics/reconstructions128_linearInterpolation.jpg  u
+sed on input line 77.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+<graphics/reconstructions128_inferenceCad.jpg, id=48, 904.8204pt x 904.8204pt>
+File: graphics/reconstructions128_inferenceCad.jpg Graphic file (type jpg)
+<use graphics/reconstructions128_inferenceCad.jpg>
+Package pdftex.def Info: graphics/reconstructions128_inferenceCad.jpg  used on 
+input line 80.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+<graphics/reconstructions128_inferenceNoCadUnet.jpg, id=49, 904.8204pt x 904.82
+04pt>
+File: graphics/reconstructions128_inferenceNoCadUnet.jpg Graphic file (type jpg
+)
+<use graphics/reconstructions128_inferenceNoCadUnet.jpg>
+Package pdftex.def Info: graphics/reconstructions128_inferenceNoCadUnet.jpg  us
+ed on input line 83.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+<graphics/reconstructions128_inferenceCadUnet.jpg, id=50, 904.8204pt x 904.8204
+pt>
+File: graphics/reconstructions128_inferenceCadUnet.jpg Graphic file (type jpg)
+<use graphics/reconstructions128_inferenceCadUnet.jpg>
+Package pdftex.def Info: graphics/reconstructions128_inferenceCadUnet.jpg  used
+ on input line 86.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+<graphics/reconstructions128_inpaintingNoCadGan.jpg, id=51, 904.8204pt x 904.82
+04pt>
+File: graphics/reconstructions128_inpaintingNoCadGan.jpg Graphic file (type jpg
+)
+<use graphics/reconstructions128_inpaintingNoCadGan.jpg>
+Package pdftex.def Info: graphics/reconstructions128_inpaintingNoCadGan.jpg  us
+ed on input line 89.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+
+Underfull \hbox (badness 2343) in paragraph at lines 89--89
+[]\T1/ptm/m/n/8 (g) |Re-con-struc-tion with sino-
+ []
+
+<graphics/reconstructions128_inferenceCadGan.jpg, id=52, 904.8204pt x 904.8204p
+t>
+File: graphics/reconstructions128_inferenceCadGan.jpg Graphic file (type jpg)
+<use graphics/reconstructions128_inferenceCadGan.jpg>
+Package pdftex.def Info: graphics/reconstructions128_inferenceCadGan.jpg  used 
+on input line 92.
+(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+
+Underfull \hbox (badness 1546) in paragraph at lines 92--92
+[]\T1/ptm/m/n/8 (h) |Re-con-struc-tion with miss-
+ []
+
+<graphics/holes_tar.png, id=53, 887.4756pt x 887.4756pt>
+File: graphics/holes_tar.png Graphic file (type png)
+<use graphics/holes_tar.png>
+Package pdftex.def Info: graphics/holes_tar.png  used on input line 101.
+(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+<graphics/holes_gan.png, id=54, 887.4756pt x 887.4756pt>
+File: graphics/holes_gan.png Graphic file (type png)
+<use graphics/holes_gan.png>
+Package pdftex.def Info: graphics/holes_gan.png  used on input line 104.
+(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+<graphics/holes_gan_tar.png, id=55, 887.4756pt x 887.4756pt>
+File: graphics/holes_gan_tar.png Graphic file (type png)
+<use graphics/holes_gan_tar.png>
+Package pdftex.def Info: graphics/holes_gan_tar.png  used on input line 107.
+(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+
+Underfull \hbox (badness 1383) in paragraph at lines 107--107
+[]\T1/ptm/m/n/8 (c) |Dif-fer-ence be-tween
+ []
+
+<graphics/holes_cad.png, id=56, 887.4756pt x 887.4756pt>
+File: graphics/holes_cad.png Graphic file (type png)
+<use graphics/holes_cad.png>
+Package pdftex.def Info: graphics/holes_cad.png  used on input line 110.
+(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+<graphics/holes_cad_tar.png, id=57, 887.4756pt x 887.4756pt>
+File: graphics/holes_cad_tar.png Graphic file (type png)
+<use graphics/holes_cad_tar.png>
+Package pdftex.def Info: graphics/holes_cad_tar.png  used on input line 113.
+(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+
+Underfull \hbox (badness 1383) in paragraph at lines 113--113
+[]\T1/ptm/m/n/8 (e) |Dif-fer-ence be-tween
+ []
+
+) [6
+
+] [7 <./graphics/methodOverview.png> <./graphics/GAN_training.png> <./graphics/
+sophiabeads_obj_slice.png> <./graphics/sophiabeads_cad_slice.png> <./graphics/s
+ophiabeads_obj_sin.png> <./graphics/sophiabeads_cad_sin.png> <./graphics/sophia
+_sin_example.png> <./graphics/sophia_sin_mask.png>] [8 <./graphics/syn_obj_slic
+e.png> <./graphics/syn_cad_slice.png> <./graphics/syn_obj_sin.png> <./graphics/
+syn_cad_sin.png> <./graphics/syn_obj_holes_img.png> <./graphics/reconstructions
+128_target.jpg> <./graphics/reconstructions128_noInterpolation.jpg> <./graphics
+/reconstructions128_linearInterpolation.jpg> <./graphics/reconstructions128_inf
+erenceCad.jpg> <./graphics/reconstructions128_inferenceNoCadUnet.jpg> <./graphi
+cs/reconstructions128_inferenceCadUnet.jpg> <./graphics/reconstructions128_inpa
+intingNoCadGan.jpg> <./graphics/reconstructions128_inferenceCadGan.jpg>]
+[9 <./graphics/holes_tar.png> <./graphics/holes_gan.png> <./graphics/holes_gan_
+tar.png> <./graphics/holes_cad.png> <./graphics/holes_cad_tar.png>] (core.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 5414 strings out of 481002
+ 91420 string characters out of 2900918
+ 330228 words of memory out of 3000000
+ 21068 multiletter control sequences out of 15000+200000
+ 652302 words of font info for 146 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,10n,54p,1850b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/emile/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/emile/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emile/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Us
+ers/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/emile/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/emile/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/emile/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/emile/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on core.pdf (9 pages, 14078470 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+

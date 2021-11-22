@@ -1,0 +1,81 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage[T1]{fontenc}% optional T1 font encoding
+
+\usepackage{cite}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsmath,amssymb,amsfonts}
+\interdisplaylinepenalty=2500
+\usepackage{array} 
+\usepackage{epstopdf}
+\usepackage{multirow}
+\usepackage{subfiles}
+
+\input{sections/commands}
+
+\ifCLASSOPTIONcompsoc
+\usepackage[caption=false,font=normalsize,labelfon
+t=sf,textfont=sf]{subfig}
+\else
+\usepackage[caption=false,font=footnotesize]{subfi
+g}
+\fi
+
+\begin{document}
+
+\title{Sinogram Enhancement with Generative Adversarial Networks using Shape Priors}
+
+\author{Emilien~Valat,
+        Katayoun~Farrahi,
+        and~Thomas~Blumensath% <-this % stops a space
+\thanks{Emilien V., Katayoun F. and Thomas B. are with the University of Southampton, Southampton, United Kingdom}
+\thanks{This work is supported by the DSTL/DGA PhD scheme.}
+}
+\markboth{Journal of Computer Assisted Tomography}%
+{Shell \MakeLowercase{\textit{et al.}}: \xr Computed Tomography Reconstruction with Generative Adversarial Networks using Shape Priors}
+\maketitle
+
+\begin{abstract}
+Compensating scarce measurements by inferring them from computational models is a way to address ill-posed inverse problems. We tackle Limited Angle Tomography by completing the set of acquisitions using a generative model and prior-knowledge about the scanned object.
+Using a Generative Adversarial Network as model and Computer-Assisted Design data as shape prior, we demonstrate a quantitative and qualitative advantage of our technique over other state-of-the-art methods. Inferring a substantial number of consecutive missing measurements, we offer an alternative to other image inpainting techniques that fall short of providing a satisfying answer to our research question: can X-Ray exposition be reduced by using generative models to infer lacking measurements?  
+\end{abstract}
+
+\begin{IEEEkeywords}
+Generative Adversarial Networks, Image Inpainting with Edge Information, \xr Computed Tomography, Computer Assisted Design Data, Shape Priors
+\end{IEEEkeywords}
+
+\IEEEpeerreviewmaketitle
+
+ \section{Introduction}
+
+\subfile{sections/introduction}
+
+\section{Proposed Approach}
+
+\subfile{sections/proposedApproach}
+
+\section{Datasets}
+
+\subfile{sections/Datasets}
+
+\section{Implementation Details}
+
+\subfile{sections/implementationDetails}
+
+\section{Results}
+
+\subfile{sections/results}
+
+\section{Discussion and Conclusion}
+
+\subfile{sections/conclusion}
+
+\section{Bibliography}
+
+\subfile{sections/bibliography}
+
+\section{Images}
+
+\subfile{sections/images}
+
+\end{document}

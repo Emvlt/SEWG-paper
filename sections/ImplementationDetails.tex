@@ -1,0 +1,24 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+Our approach relies on the use of a shape prior to train a generative model. The encoding of this prior and the training of the model are then crucial in the process.
+
+\subsection{Encoding the Shape Prior}
+\label{encoding_the_shape_prior}
+
+There are several ways to encode the object's shape information for use by the GAN. For instance, one can generate images where the boundary pixels are set to a non-zero value. Also, the object boundary pixels and the object interior pixels can be set to a single value, using the same value for all objects. Otherwise, we set the object boundary pixels and the object interior pixels to a random value, using the same value for one object, but different values for different objects. We chose the latter as it allows a greater range of different densities to be encoded.
+
+To enhance the prior, we add a pre-processing step that makes use of a property of sinograms. For an acquisition angle, when summing the pixel values read on the detector, one gets the sum of all the attenuation values on the object, i.e. 
+\begin{equation}
+\int_r R(\theta,r) = \int_y \int_x f(x,y) \ dx \  dy = \mathrm{const}.
+\end{equation} 
+This value is constant for all $\theta$ if all objects remain entirely within the field of view. Here, we use this estimate of the overall attenuation to scale the sinograms derived from the shape prior encoding. We also define a binary sinogram mask that indicates sinogram pixels where we know that information is missing, i.e. those pixels for which $\theta$ is in the set of missing pixels but where the shape prior predicts a non-zero sinogram value, as can be seen in Fig. \ref{fig:sophia_sin_mask}. We concatenate all three modalities into a three channel image as the input to the GAN generator.
+ 
+\subsection{GAN Training}
+
+The networks are trained on the SophiaBeads training dataset reconstructed with 1024 projections, using a hundred epochs. They are then evaluated on the dataset reconstructed from 512 projections. When using prior information, we concatenate it to the sinogram before training the networks with it. The concatenated input data is re-scaled to have values between 0 and 1. We used a batch size of 8 and the Adam optimizer \cite{kingma2014Adam}. The learning rate is set at 0.0002 and $\lambda$ is set to 100. We used label-smoothing and noise addition in the discriminator, as prescribed in \cite{goodfellow2016nips}. We have implemented the top-k \cite{sinha2020top} training procedure which discards 6/8th of the generated samples when updating the \textit{G} loss. We trained comparison networks with the same procedure but, as no information was given in \cite{yoo2019sinogram} and \cite{yeh2016semantic} on the hyper-parameters of the inpainting step used in their methods, our implementation of these did not produce satisfactory results. All of the code used in this paper are available at \cite{valat2021codes}, the implementation is made using PyTorch \cite{paszke2019pytorch}.
+
+Training is performed on the SophiaBeads dataset with the priors and on a synthetic dataset that models internal defects separately. It means that two copies of the same architecture were trained separately on each dataset, but with the same hyper-parameters.
+
+\end{document}
