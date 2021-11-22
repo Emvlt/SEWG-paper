@@ -3,39 +3,42 @@
 \begin{document}
 
 \begin{figure*}
-{\includegraphics[width=0.5\textwidth]{graphics/methodOverview.png}}
+\centering
+{\includegraphics[width=0.15\textwidth]{example-image-a}}
 \caption{Visual explanation of the inpainting method.}
 \label{fig:inpainting_method_explanation}
 \end{figure*}
 
 \begin{figure*}
-{\includegraphics[width=0.5\textwidth]{graphics/GAN_training.png}}
+\centering
+{\includegraphics[width=0.15\textwidth]{example-image-a}}
 \caption{Visual explanation of the training of the GAN.}
 \label{fig:training_procedure_explanation}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\subfloat[Slice of the SophiaBeads volume.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_obj_slice.png}
+\subfloat[Slice of the SophiaBeads volume.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophiabeads_obj_slice}}
 \hfil
-\subfloat[Shape prior associated to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_cad_slice.png}
+\subfloat[Shape prior associated to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophiabeads_cad_slice}}
 \hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_obj_sin.png}
+\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophiabeads_obj_sin}}
 \hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_cad_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_cad_sin.png}
+\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_cad_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophiabeads_cad_sin}}
 \caption{Sample from the volume of the SophiaBeads dataset. Fig \ref{fig:sophiabeads_obj_slice} shows the reconstructed acquisition and Fig \ref{fig:sophiabeads_cad_slice} shows a representation of shape priors showing each object with a different randomly assigned gray value, in which no plastic container is visible. The sinograms shown in Fig. \ref{fig:sophiabeads_obj_sin} and Fig. \ref{fig:sophiabeads_cad_sin} are obtained using the forward radon transform with a parallel beam geometry from \ref{fig:sophiabeads_obj_slice} and \ref{fig:sophiabeads_cad_slice}, respectively.}
 \label{fig:Sample SophiaBeads}
 \end{figure*}
 
 \begin{figure*}
-\subfloat[Sinogram with missing acquisitions drawn from the SophiaBeads dataset.]{\includegraphics[width=0.2\textwidth]{graphics/sophia_sin_example.png}
+\centering
+\subfloat[Sinogram with missing acquisitions drawn from the SophiaBeads dataset.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophia_sin_example}}
 \hspace{5mm}%
-\subfloat[Mask associated with Fig. \ref{fig:sophia_sin_example}.]{\includegraphics[width=0.2\textwidth]{graphics/sophia_sin_mask.png}
+\subfloat[Mask associated with Fig. \ref{fig:sophia_sin_example}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:sophia_sin_mask}}
 \caption{Fig. \ref{fig:sophia_sin_example} shows a sinogram with missing acquisitions and Fig. \ref{fig:sophia_sin_mask} its associated mask.}
 \label{fig:sinogram_example}
@@ -43,23 +46,24 @@
     
 \begin{figure*}
 \centering
-\subfloat[Sample from the synthetic dataset.]{\includegraphics[width=0.2\textwidth]{graphics/syn_obj_slice.png}
+\subfloat[Sample from the synthetic dataset.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:syn_obj_slice}}
 \hfil
-\subfloat[Encoded shape prior associated to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/syn_cad_slice.png}
+\subfloat[Encoded shape prior associated to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:syn_cad_slice}}
 \hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/syn_obj_sin.png}
+\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:syn_obj_sin}}
 \hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_cad_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/syn_cad_sin.png}
+\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_cad_slice}.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:syn_cad_sin}}
 \caption{Sample from the volume of the synthetic dataset. (\ref{fig:syn_obj_slice}) shows the ground-truth reconstruction and (\ref{fig:syn_cad_slice}) shows a representation of the shape priors showing each object with a different randomly assigned gray value, in which no plastic container is visible. In an attempt to reproduce noise in the image, a Gaussian noise is added to the material of uniform densities. The sinograms shown in (\ref{fig:syn_obj_sin}) and (\ref{fig:syn_cad_sin}) are obtained using the forward radon transform with a parallel beam geometry.}
         \label{fig:Sample synthetic}
 \end{figure*}          
 
 \begin{figure*}
-\subfloat[Example of a sample of the synthetic dataset when internal defects are present.]{\includegraphics[width=0.2\textwidth]{graphics/syn_obj_holes_img.png}
+\centering
+\subfloat[Example of a sample of the synthetic dataset when internal defects are present.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:holes_examples_}}
 \caption{Objects with internal defects not encoded in the shape prior.}
 \label{fig:holes_examples}
@@ -67,28 +71,28 @@
 
 \begin{figure*}
 \centering
-\subfloat[Target reconstruction with 256 acquisitions]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_target.jpg}
+\subfloat[Target reconstruction with 256 acquisitions]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_target}}
 \hfill
-\subfloat[Reconstruction without any interpolation method , i.e from 128 acquisitions]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_noInterpolation.jpg}
+\subfloat[Reconstruction without any interpolation method , i.e from 128 acquisitions]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_noInterpolation}}
 \hfill
-\subfloat[Reconstruction with linear interpolation]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_linearInterpolation.jpg}
+\subfloat[Reconstruction with linear interpolation]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_linearInterpolation}}
 \hfill
-\subfloat[Reconstruction with missing acquisitions replaced by CAD-expected ones]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_inferenceCad.jpg}
+\subfloat[Reconstruction with missing acquisitions replaced by CAD-expected ones]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_inferenceCad}}
 \hfill
-\subfloat[Reconstruction with acquisitions inferred from the Unet without the CAD prior]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_inferenceNoCadUnet.jpg}
+\subfloat[Reconstruction with acquisitions inferred from the Unet without the CAD prior]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_NoCadUnet}}
 \hfill
-\subfloat[Reconstruction with acquisitions inferred from the Unet with the CAD prior]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_inferenceCadUnet.jpg}
+\subfloat[Reconstruction with acquisitions inferred from the Unet with the CAD prior]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_CadUnet}}
 \hfill
-\subfloat[Reconstruction with sinogram inpainted by the GAN.]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_inpaintingNoCadGan.jpg}
+\subfloat[Reconstruction with sinogram inpainted by the GAN.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_NoCadGan}}
 \hfill
-\subfloat[Reconstruction with missing acquisitions inferred from the pix2pix architecture using CAD prior.]{\includegraphics[width=0.2\textwidth]{graphics/reconstructions128_inferenceCadGan.jpg}
+\subfloat[Reconstruction with missing acquisitions inferred from the pix2pix architecture using CAD prior.]{\includegraphics[width=0.2\textwidth]{example-image-a}
 \label{fig:reconstructions128_CadGan}}
 
 \label{fig:reconstructions}
@@ -97,19 +101,19 @@
 
 \begin{figure*}
 \centering
-\subfloat[Target reconstruction.]{\includegraphics[width=0.15\textwidth]{graphics/holes_tar.png}
+\subfloat[Target reconstruction.]{\includegraphics[width=0.15\textwidth]{example-image-a}
 \label{fig:holes_tar}}
 \hfill
-\subfloat[Reconstruction using our method.]{\includegraphics[width=0.15\textwidth]{graphics/holes_gan.png}
+\subfloat[Reconstruction using our method.]{\includegraphics[width=0.15\textwidth]{example-image-a}
 \label{fig:holes_gan}}
 \hfill
-\subfloat[Difference between the image reconstructed with our method and the target reconstruction.]{\includegraphics[width=0.15\textwidth]{graphics/holes_gan_tar.png}
+\subfloat[Difference between the image reconstructed with our method and the target reconstruction.]{\includegraphics[width=0.15\textwidth]{example-image-a}
 \label{fig:holes_gan_tar}}
 \hfill
-\subfloat[Reconstruction using the shape prior.]{\includegraphics[width=0.15\textwidth]{graphics/holes_cad.png}
+\subfloat[Reconstruction using the shape prior.]{\includegraphics[width=0.15\textwidth]{example-image-a}
 \label{fig:holes_cad}}
 \hfill
-\subfloat[Difference between the image reconstructed with the shape prior and the target reconstruction.]{\includegraphics[width=0.15\textwidth]{graphics/holes_cad_tar.png}
+\subfloat[Difference between the image reconstructed with the shape prior and the target reconstruction.]{\includegraphics[width=0.15\textwidth]{example-image-a}
 \label{fig:holes_cad_tar}}
 \caption{Understanding the action of the GAN on objects with internal defects not expected by the shape prior. (\ref{fig:holes_tar}) shows the target reconstruction, (\ref{fig:holes_gan}) shows the reconstruction with our method and (\ref{fig:holes_gan_tar}) shows the difference between (\ref{fig:holes_gan}) and (\ref{fig:holes_tar}). (\ref{fig:holes_cad}) shows the reconstruction with the shape prior and (\ref{fig:holes_cad_tar}) shows the difference between (\ref{fig:holes_cad}) and (\ref{fig:holes_tar}).}
 \label{fig:images_with_holes}

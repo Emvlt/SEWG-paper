@@ -1,0 +1,35 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage[T1]{fontenc}% optional T1 font encoding
+
+\usepackage[pdftex]{graphicx}
+
+\ifCLASSOPTIONcompsoc
+\usepackage[caption=false,font=normalsize,labelfon
+t=sf,textfont=sf]{subfig}
+\else
+\usepackage[caption=false,font=footnotesize]{subfi
+g}
+\fi
+
+\begin{document}
+
+\begin{figure*}
+\centering
+\subfloat[Sample from the synthetic dataset.]{\includegraphics[width=0.2\textwidth]{ syn_obj_slice.png}
+\label{fig:syn_obj_slice}}
+\hfil
+\subfloat[Encoded shape prior associated to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{ syn_cad_slice.png}
+\label{fig:syn_cad_slice}}
+\hfil
+\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_obj_slice}.]{\includegraphics[width=0.2\textwidth]{ syn_obj_sin.png}
+\label{fig:syn_obj_sin}}
+\hfil
+\subfloat[Sinogram corresponding to Fig. \ref{fig:syn_cad_slice}.]{\includegraphics[width=0.2\textwidth]{ syn_cad_sin.png}
+\label{fig:syn_cad_sin}}
+\caption{Sample from the volume of the synthetic dataset. (\ref{fig:syn_obj_slice}) shows the ground-truth reconstruction and (\ref{fig:syn_cad_slice}) shows a representation of the shape priors showing each object with a different randomly assigned gray value, in which no plastic container is visible. In an attempt to reproduce noise in the image, a Gaussian noise is added to the material of uniform densities. The sinograms shown in (\ref{fig:syn_obj_sin}) and (\ref{fig:syn_cad_sin}) are obtained using the forward radon transform with a parallel beam geometry.}
+        \label{fig:Sample synthetic}
+\end{figure*}          
+
+\end{document}
+

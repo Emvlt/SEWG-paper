@@ -1,0 +1,26 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage[T1]{fontenc}% optional T1 font encoding
+
+\usepackage[pdftex]{graphicx}
+
+\ifCLASSOPTIONcompsoc
+\usepackage[caption=false,font=normalsize,labelfon
+t=sf,textfont=sf]{subfig}
+\else
+\usepackage[caption=false,font=footnotesize]{subfi
+g}
+\fi
+
+\begin{document}
+
+\begin{figure*}
+\centering
+\subfloat[Example of a sample of the synthetic dataset when internal defects are present.]{\includegraphics[width=0.2\textwidth]{syn_obj_holes_img.png}
+\label{fig:holes_examples_}}
+\caption{Objects with internal defects not encoded in the shape prior.}
+\label{fig:holes_examples}
+\end{figure*}
+
+\end{document}
+

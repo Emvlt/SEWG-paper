@@ -1,35 +1,18 @@
 \documentclass[../main.tex]{subfiles}
-\graphicspath{{\subfix{../images/}}}
+\graphicspath{{\subfix{../graphicsJCAT/}}}
 \begin{document}
 
 \begin{figure*}
-{\includegraphics[width=0.5\textwidth]{graphics/methodOverview.png}}
 \caption{Visual explanation of the inpainting method.}
 \label{fig:inpainting_method_explanation}
 \end{figure*}
 
 \begin{figure*}
-{\includegraphics[width=0.5\textwidth]{graphics/GAN_training.png}}
 \caption{Visual explanation of the training of the GAN.}
 \label{fig:training_procedure_explanation}
 \end{figure*}
 
-\begin{figure*}
-\centering
-\subfloat[Slice of the SophiaBeads volume.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_obj_slice.png}
-\label{fig:sophiabeads_obj_slice}}
-\hfil
-\subfloat[Shape prior associated to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_cad_slice.png}
-\label{fig:sophiabeads_cad_slice}}
-\hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_obj_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_obj_sin.png}
-\label{fig:sophiabeads_obj_sin}}
-\hfil
-\subfloat[Sinogram corresponding to Fig. \ref{fig:sophiabeads_cad_slice}.]{\includegraphics[width=0.2\textwidth]{graphics/sophiabeads_cad_sin.png}
-\label{fig:sophiabeads_cad_sin}}
-\caption{Sample from the volume of the SophiaBeads dataset. Fig \ref{fig:sophiabeads_obj_slice} shows the reconstructed acquisition and Fig \ref{fig:sophiabeads_cad_slice} shows a representation of shape priors showing each object with a different randomly assigned gray value, in which no plastic container is visible. The sinograms shown in Fig. \ref{fig:sophiabeads_obj_sin} and Fig. \ref{fig:sophiabeads_cad_sin} are obtained using the forward radon transform with a parallel beam geometry from \ref{fig:sophiabeads_obj_slice} and \ref{fig:sophiabeads_cad_slice}, respectively.}
-\label{fig:Sample SophiaBeads}
-\end{figure*}
+\subfile{graphicsJCAT/Figure3_SophiaBeadsSample.pdf}
 
 \begin{figure*}
 \subfloat[Sinogram with missing acquisitions drawn from the SophiaBeads dataset.]{\includegraphics[width=0.2\textwidth]{graphics/sophia_sin_example.png}

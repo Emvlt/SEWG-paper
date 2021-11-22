@@ -1,0 +1,29 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage[T1]{fontenc}% optional T1 font encoding
+
+\usepackage[pdftex]{graphicx}
+
+\ifCLASSOPTIONcompsoc
+\usepackage[caption=false,font=normalsize,labelfon
+t=sf,textfont=sf]{subfig}
+\else
+\usepackage[caption=false,font=footnotesize]{subfi
+g}
+\fi
+
+\begin{document}
+
+\begin{figure*}
+\centering
+\subfloat[Sinogram with missing acquisitions drawn from the SophiaBeads dataset.]{\includegraphics[width=0.2\textwidth]{sophia_sin_example.png}
+\label{fig:sophia_sin_example}}
+\hspace{5mm}%
+\subfloat[Mask associated with Fig. \ref{fig:sophia_sin_example}.]{\includegraphics[width=0.2\textwidth]{sophia_sin_mask.png}
+\label{fig:sophia_sin_mask}}
+\caption{Fig. \ref{fig:sophia_sin_example} shows a sinogram with missing acquisitions and Fig. \ref{fig:sophia_sin_mask} its associated mask.}
+\label{fig:sinogram_example}
+\end{figure*}
+
+\end{document}
+

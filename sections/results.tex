@@ -10,47 +10,11 @@ We have two volumes of 200 slices each. Each volume is split into 90 percent tra
 \subsubsection{Impact on the sinogram}
 \label{impact_on_the_sinogram_sophiabeads}
 
-\begin{table}[]
-\centering
-\label{table:results_sophiaBeads_sinograms}
-\setlength{\tabcolsep}{0.75\tabcolsep}
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Missing angles & \multicolumn{2}{c|}{30 \textdegree} & \multicolumn{2}{c|}{60\textdegree} & \multicolumn{2}{c|}{90\textdegree}\\
-\hline
-Method & PSNR & SSIM & PSNR & SSIM & PSNR & SSIM\\ \hline
-non-scaled CAD & 22.47 & 0.88 & 19.24 & 0.78 & 17.06 & 0.68\\ \hline
-scaled CAD & 23.13 & 0.88 & 21.31 & 0.77 & 19.66 & 0.66\\ \hline
-linear interpolation & 23.55 & 0.87 & 22.63 & 0.82 & 20.01 & 0.75\\ \hline
-Unet & 9.93 & 0.43 & 8.35 & 0.24 & 7.69 & 0.15\\ \hline
-Unet + CAD  & 16.78 & 0.83 & 12.90 & 0.72 & 10.95 & 0.61\\ \hline
-GAN inpainting & 6.95 & 0.80 & 3.82 & 0.64 & 1.95 & 0.47\\ \hline
-pix2pix inference & \textbf{29.10} & \textbf{0.92} & \textbf{27.76} & \textbf{0.88} & \textbf{27.08} & \textbf{0.83}\\ \hline
-\end{tabular}\caption{Table \ref{table:results_sophiaBeads_sinograms} shows how each method performs at inferring missing acquisition in a scarce sinogram.}
-\end{table}
 As can be seen in Table\ref{table:results_sophiaBeads_sinograms}, the pix2pix architecture combined with the CAD prior outperforms all other compared approaches. It is interesting to see that using the CAD prior significantly enhances the performance of the U-net. It is also worth mentioning that the scaling operation slightly improves the quality of the CAD replacement. The inpainting process has limitations that we  will detail in \ref{sec:conclusion}.
 
 \subsubsection{Impact on the reconstructions}
 The reconstructions are made using the Simultaneous Iterative Reconstruction Technique algorithm and implemented with TIGRE for Python \cite{biguri2016tigre}.
-\begin{table}[]
-\centering
-\label{table:results_sophiaBeads_reconstruction}
-\setlength{\tabcolsep}{0.75\tabcolsep}
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Missing angles & \multicolumn{2}{c|}{30 \textdegree} & \multicolumn{2}{c|}{60\textdegree} & \multicolumn{2}{c|}{90\textdegree}\\
-\hline
-Method & PSNR & SSIM & PSNR & SSIM & PSNR & SSIM\\
-\hline
-no interpolation & 69.15 & 1.00 & 66.47 & 1.00 & 63.77 & 1.00\\\hline
-scaled CAD & 61.33 & 0.99 & 58.28 & 0.99 & 56.28 & 0.99\\ \hline
-linear interpolation & 61.23 & 1.00 & 61.76 & 1.00 & 59.37 & 1.00\\\hline
-Unet & 52.67 & 0.99 & 51.42 & 0.99 & 51.43 & 0.99\\\hline
-Unet + CAD & 60.35 & 1.00 & 56.50 & 1.00 & 55.12 & 0.99\\\hline
-GAN inpainting & 53.41 & 1.00 & 51.40 & 0.99 & 50.90 & 0.99\\\hline
-pix2pix inference & \textbf{69.59} & 1.00 & \textbf{67.89} & 1.00 & \textbf{66.46} & 1.00\\\hline
-\end{tabular}\caption{Table \ref{table:results_sophiaBeads_reconstruction} shows how each method performs at improving the reconstruction yielded by the SIRT algorithm.}
-\end{table}
+
 As can be seen in Table\ref{table:results_sophiaBeads_sinograms}, not only does the pix2pix architecture combined with the CAD prior outperform all other approaches considered in the image space, but it is the only one that yields an improvement compared to the reconstruction made from the scarce sinogram. It is also important to underline that methods performing well in the sinogram space do not necessarily yield an improvement in the image space. This might be due to the reconstruction algorithm used. Fig. \ref{fig:reconstructions} shows the reconstructions associated with each method for 128 missing acquisitions.
 
 \subsection{Effect of Inconsistencies Between the Two Modalities on the Synthetic Dataset}

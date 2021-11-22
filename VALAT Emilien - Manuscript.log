@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.22)  22 NOV 2021 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.22)  22 NOV 2021 13:33
 entering extended mode
-**./core.tex
-(core.tex
+**"./VALAT Emilien - Manuscript.tex"
+(VALAT Emilien - Manuscript.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-12>
 (C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
@@ -336,8 +336,8 @@ dftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box56
-) (core.aux)
-\openout1 = `core.aux'.
+) (VALAT Emilien - Manuscript.aux)
+\openout1 = `"VALAT Emilien - Manuscript.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -374,7 +374,17 @@ mkii
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
- (sections/introduction.tex
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+(sections/introduction.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
 
 (C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -390,228 +400,164 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ])
 (sections/proposedApproach.tex [2]) (sections/Datasets.tex)
-(sections/implementationDetails.tex [3]) (sections/results.tex)
-(sections/conclusion.tex [4]) (sections/bibliography.tex [5]) [6
+(sections/implementationDetails.tex [3]) (sections/results.tex
 
-]
-(sections/tables.tex
+LaTeX Warning: Reference `table:results_sophiaBeads_sinograms' on page 4 undefi
+ned on input line 13.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 5.
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-1.
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
+LaTeX Warning: Reference `table:results_sophiaBeads_sinograms' on page 4 undefi
+ned on input line 18.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 25.
+) (sections/conclusion.tex [4]) (sections/bibliography.tex)
+(sections/imagesJCAT.tex
+<example-image-a.pdf, id=28, 321.2pt x 240.9pt>
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 7.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 14.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 22.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 25.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 28.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 31.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 39.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 42.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 50.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 53.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 56.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 59.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 67.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 75.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
 
-) (sections/images.tex
-<graphics/methodOverview.png, id=34, 544.28343pt x 305.64188pt>
-File: graphics/methodOverview.png Graphic file (type png)
-<use graphics/methodOverview.png>
-Package pdftex.def Info: graphics/methodOverview.png  used on input line 6.
-(pdftex.def)             Requested size: 258.0pt x 144.87825pt.
-<graphics/GAN_training.png, id=36, 544.28343pt x 305.64188pt>
-File: graphics/GAN_training.png Graphic file (type png)
-<use graphics/GAN_training.png>
-Package pdftex.def Info: graphics/GAN_training.png  used on input line 12.
-(pdftex.def)             Requested size: 258.0pt x 144.87825pt.
-<graphics/sophiabeads_obj_slice.png, id=37, 887.4756pt x 887.4756pt>
-File: graphics/sophiabeads_obj_slice.png Graphic file (type png)
-<use graphics/sophiabeads_obj_slice.png>
-Package pdftex.def Info: graphics/sophiabeads_obj_slice.png  used on input line
- 20.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/sophiabeads_cad_slice.png, id=38, 887.4756pt x 887.4756pt>
-File: graphics/sophiabeads_cad_slice.png Graphic file (type png)
-<use graphics/sophiabeads_cad_slice.png>
-Package pdftex.def Info: graphics/sophiabeads_cad_slice.png  used on input line
- 23.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/sophiabeads_obj_sin.png, id=39, 887.4756pt x 887.4756pt>
-File: graphics/sophiabeads_obj_sin.png Graphic file (type png)
-<use graphics/sophiabeads_obj_sin.png>
-Package pdftex.def Info: graphics/sophiabeads_obj_sin.png  used on input line 2
-6.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/sophiabeads_cad_sin.png, id=40, 887.4756pt x 887.4756pt>
-File: graphics/sophiabeads_cad_sin.png Graphic file (type png)
-<use graphics/sophiabeads_cad_sin.png>
-Package pdftex.def Info: graphics/sophiabeads_cad_sin.png  used on input line 2
-9.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/sophia_sin_example.png, id=41, 887.4756pt x 887.4756pt>
-File: graphics/sophia_sin_example.png Graphic file (type png)
-<use graphics/sophia_sin_example.png>
-Package pdftex.def Info: graphics/sophia_sin_example.png  used on input line 36
-.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/sophia_sin_mask.png, id=42, 887.4756pt x 887.4756pt>
-File: graphics/sophia_sin_mask.png Graphic file (type png)
-<use graphics/sophia_sin_mask.png>
-Package pdftex.def Info: graphics/sophia_sin_mask.png  used on input line 39.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/syn_obj_slice.png, id=43, 887.4756pt x 887.4756pt>
-File: graphics/syn_obj_slice.png Graphic file (type png)
-<use graphics/syn_obj_slice.png>
-Package pdftex.def Info: graphics/syn_obj_slice.png  used on input line 47.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/syn_cad_slice.png, id=44, 887.4756pt x 887.4756pt>
-File: graphics/syn_cad_slice.png Graphic file (type png)
-<use graphics/syn_cad_slice.png>
-Package pdftex.def Info: graphics/syn_cad_slice.png  used on input line 50.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/syn_obj_sin.png, id=45, 887.4756pt x 887.4756pt>
-File: graphics/syn_obj_sin.png Graphic file (type png)
-<use graphics/syn_obj_sin.png>
-Package pdftex.def Info: graphics/syn_obj_sin.png  used on input line 53.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/syn_cad_sin.png, id=46, 887.4756pt x 887.4756pt>
-File: graphics/syn_cad_sin.png Graphic file (type png)
-<use graphics/syn_cad_sin.png>
-Package pdftex.def Info: graphics/syn_cad_sin.png  used on input line 56.
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/syn_obj_holes_img.png, id=47, 887.4756pt x 887.4756pt>
-File: graphics/syn_obj_holes_img.png Graphic file (type png)
-<use graphics/syn_obj_holes_img.png>
-Package pdftex.def Info: graphics/syn_obj_holes_img.png  used on input line 63.
-
-(pdftex.def)             Requested size: 103.19843pt x 103.18828pt.
-<graphics/reconstructions128_target.jpg, id=48, 904.8204pt x 904.8204pt>
-File: graphics/reconstructions128_target.jpg Graphic file (type jpg)
-<use graphics/reconstructions128_target.jpg>
-Package pdftex.def Info: graphics/reconstructions128_target.jpg  used on input 
-line 71.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-
-Underfull \hbox (badness 1735) in paragraph at lines 71--71
+Underfull \hbox (badness 1735) in paragraph at lines 75--75
 []\T1/ptm/m/n/8 (a) |Tar-get re-con-struc-tion with
  []
 
-<graphics/reconstructions128_noInterpolation.jpg, id=49, 904.8204pt x 904.8204p
-t>
-File: graphics/reconstructions128_noInterpolation.jpg Graphic file (type jpg)
-<use graphics/reconstructions128_noInterpolation.jpg>
-Package pdftex.def Info: graphics/reconstructions128_noInterpolation.jpg  used 
-on input line 74.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-<graphics/reconstructions128_linearInterpolation.jpg, id=50, 904.8204pt x 904.8
-204pt>
-File: graphics/reconstructions128_linearInterpolation.jpg Graphic file (type jp
-g)
-<use graphics/reconstructions128_linearInterpolation.jpg>
-Package pdftex.def Info: graphics/reconstructions128_linearInterpolation.jpg  u
-sed on input line 77.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-<graphics/reconstructions128_inferenceCad.jpg, id=51, 904.8204pt x 904.8204pt>
-File: graphics/reconstructions128_inferenceCad.jpg Graphic file (type jpg)
-<use graphics/reconstructions128_inferenceCad.jpg>
-Package pdftex.def Info: graphics/reconstructions128_inferenceCad.jpg  used on 
-input line 80.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-<graphics/reconstructions128_inferenceNoCadUnet.jpg, id=52, 904.8204pt x 904.82
-04pt>
-File: graphics/reconstructions128_inferenceNoCadUnet.jpg Graphic file (type jpg
-)
-<use graphics/reconstructions128_inferenceNoCadUnet.jpg>
-Package pdftex.def Info: graphics/reconstructions128_inferenceNoCadUnet.jpg  us
-ed on input line 83.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-<graphics/reconstructions128_inferenceCadUnet.jpg, id=53, 904.8204pt x 904.8204
-pt>
-File: graphics/reconstructions128_inferenceCadUnet.jpg Graphic file (type jpg)
-<use graphics/reconstructions128_inferenceCadUnet.jpg>
-Package pdftex.def Info: graphics/reconstructions128_inferenceCadUnet.jpg  used
- on input line 86.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
-<graphics/reconstructions128_inpaintingNoCadGan.jpg, id=54, 904.8204pt x 904.82
-04pt>
-File: graphics/reconstructions128_inpaintingNoCadGan.jpg Graphic file (type jpg
-)
-<use graphics/reconstructions128_inpaintingNoCadGan.jpg>
-Package pdftex.def Info: graphics/reconstructions128_inpaintingNoCadGan.jpg  us
-ed on input line 89.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 78.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 81.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 84.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 87.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 90.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 93.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
 
-Underfull \hbox (badness 2343) in paragraph at lines 89--89
+Underfull \hbox (badness 2343) in paragraph at lines 93--93
 []\T1/ptm/m/n/8 (g) |Re-con-struc-tion with sino-
  []
 
-<graphics/reconstructions128_inferenceCadGan.jpg, id=55, 904.8204pt x 904.8204p
-t>
-File: graphics/reconstructions128_inferenceCadGan.jpg Graphic file (type jpg)
-<use graphics/reconstructions128_inferenceCadGan.jpg>
-Package pdftex.def Info: graphics/reconstructions128_inferenceCadGan.jpg  used 
-on input line 92.
-(pdftex.def)             Requested size: 103.19843pt x 103.18925pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 96.
+(pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
 
-Underfull \hbox (badness 1546) in paragraph at lines 92--92
+Underfull \hbox (badness 1546) in paragraph at lines 96--96
 []\T1/ptm/m/n/8 (h) |Re-con-struc-tion with miss-
  []
 
-<graphics/holes_tar.png, id=56, 887.4756pt x 887.4756pt>
-File: graphics/holes_tar.png Graphic file (type png)
-<use graphics/holes_tar.png>
-Package pdftex.def Info: graphics/holes_tar.png  used on input line 101.
-(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
-<graphics/holes_gan.png, id=57, 887.4756pt x 887.4756pt>
-File: graphics/holes_gan.png Graphic file (type png)
-<use graphics/holes_gan.png>
-Package pdftex.def Info: graphics/holes_gan.png  used on input line 104.
-(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
-<graphics/holes_gan_tar.png, id=58, 887.4756pt x 887.4756pt>
-File: graphics/holes_gan_tar.png Graphic file (type png)
-<use graphics/holes_gan_tar.png>
-Package pdftex.def Info: graphics/holes_gan_tar.png  used on input line 107.
-(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 105.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 108.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 111.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
 
-Underfull \hbox (badness 1383) in paragraph at lines 107--107
+Underfull \hbox (badness 1383) in paragraph at lines 111--111
 []\T1/ptm/m/n/8 (c) |Dif-fer-ence be-tween
  []
 
-<graphics/holes_cad.png, id=59, 887.4756pt x 887.4756pt>
-File: graphics/holes_cad.png Graphic file (type png)
-<use graphics/holes_cad.png>
-Package pdftex.def Info: graphics/holes_cad.png  used on input line 110.
-(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
-<graphics/holes_cad_tar.png, id=60, 887.4756pt x 887.4756pt>
-File: graphics/holes_cad_tar.png Graphic file (type png)
-<use graphics/holes_cad_tar.png>
-Package pdftex.def Info: graphics/holes_cad_tar.png  used on input line 113.
-(pdftex.def)             Requested size: 77.39685pt x 77.3912pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 114.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 117.
+(pdftex.def)             Requested size: 77.39685pt x 58.04507pt.
 
-Underfull \hbox (badness 1383) in paragraph at lines 113--113
+Underfull \hbox (badness 1383) in paragraph at lines 117--117
 []\T1/ptm/m/n/8 (e) |Dif-fer-ence be-tween
  []
 
-) [7
+) [5] [6 <C:/Users/hx21262/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-
+image-a.pdf>] [7] (VALAT Emilien - Manuscript.aux)
+
+LaTeX Warning: There were undefined references.
 
 
-] [8 <./graphics/methodOverview.png> <./graphics/GAN_training.png> <./graphics/
-sophiabeads_obj_slice.png> <./graphics/sophiabeads_cad_slice.png> <./graphics/s
-ophiabeads_obj_sin.png> <./graphics/sophiabeads_cad_sin.png> <./graphics/sophia
-_sin_example.png> <./graphics/sophia_sin_mask.png>] [9 <./graphics/syn_obj_slic
-e.png> <./graphics/syn_cad_slice.png> <./graphics/syn_obj_sin.png> <./graphics/
-syn_cad_sin.png> <./graphics/syn_obj_holes_img.png> <./graphics/reconstructions
-128_target.jpg> <./graphics/reconstructions128_noInterpolation.jpg> <./graphics
-/reconstructions128_linearInterpolation.jpg> <./graphics/reconstructions128_inf
-erenceCad.jpg> <./graphics/reconstructions128_inferenceNoCadUnet.jpg> <./graphi
-cs/reconstructions128_inferenceCadUnet.jpg> <./graphics/reconstructions128_inpa
-intingNoCadGan.jpg> <./graphics/reconstructions128_inferenceCadGan.jpg>]
-[10 <./graphics/holes_tar.png> <./graphics/holes_gan.png> <./graphics/holes_gan
-_tar.png> <./graphics/holes_cad.png> <./graphics/holes_cad_tar.png>] (core.aux)
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5936 strings out of 478699
- 107503 string characters out of 2846013
- 405228 words of memory out of 3000000
- 23871 multiletter control sequences out of 15000+600000
- 523394 words of font info for 149 fonts, out of 8000000 for 9000
+ 5701 strings out of 478699
+ 100559 string characters out of 2846013
+ 423001 words of memory out of 3000000
+ 23683 multiletter control sequences out of 15000+600000
+ 511878 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,63p,1851b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,10n,63p,1875b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
 C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mex10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
@@ -624,14 +570,15 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmti10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/symbols/msbm10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fo
-nts/type1/urw/times/utmb8a.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmbi8a.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/hx21262/AppData/Local/Programs/Mi
-KTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on core.pdf (10 pages, 14090282 bytes).
+/lm/lmss17.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/
+fonts/type1/urw/times/utmb8a.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/hx21262/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/hx21262/AppData/Local/Programs/
+MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "VALAT Emilien - Manuscript.pdf" (7 pages, 202311 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
