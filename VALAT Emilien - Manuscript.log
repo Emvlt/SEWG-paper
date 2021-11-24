@@ -1,32 +1,33 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.22)  22 NOV 2021 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.6)  24 NOV 2021 14:59
 entering extended mode
 **"./VALAT Emilien - Manuscript.tex"
-(VALAT Emilien - Manuscript.tex
-LaTeX2e <2021-11-15>
-L3 programming layer <2021-11-12>
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+("VALAT Emilien - Manuscript.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.
+cls"
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
-\@IEEEtrantmpdimenA=\dimen138
-\@IEEEtrantmpdimenB=\dimen139
-\@IEEEtrantmpdimenC=\dimen140
-\@IEEEtrantmpcountA=\count183
-\@IEEEtrantmpcountB=\count184
-\@IEEEtrantmpcountC=\count185
-\@IEEEtrantmptoksA=\toks16
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks15
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
 03.
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
-\@IEEEnormalsizeunitybaselineskip=\dimen141
+\@IEEEnormalsizeunitybaselineskip=\dimen137
 -- This is a 10 point document.
-\CLASSINFOnormalsizebaselineskip=\dimen142
-\CLASSINFOnormalsizeunitybaselineskip=\dimen143
-\IEEEnormaljot=\dimen144
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
@@ -77,195 +78,209 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
 
-\IEEEquantizedlength=\dimen145
-\IEEEquantizedlengthdiff=\dimen146
-\IEEEquantizedtextheightdiff=\dimen147
-\IEEEilabelindentA=\dimen148
-\IEEEilabelindentB=\dimen149
-\IEEEilabelindent=\dimen150
-\IEEEelabelindent=\dimen151
-\IEEEdlabelindent=\dimen152
-\IEEElabelindent=\dimen153
-\IEEEiednormlabelsep=\dimen154
-\IEEEiedmathlabelsep=\dimen155
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
 \IEEEiedtopsep=\skip47
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@IEEEsubequation=\count190
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\c@figure=\count191
-\c@table=\count192
-\@IEEEeqnnumcols=\count193
-\@IEEEeqncolcnt=\count194
-\@IEEEsubeqnnumrollback=\count195
-\@IEEEquantizeheightA=\dimen156
-\@IEEEquantizeheightB=\dimen157
-\@IEEEquantizeheightC=\dimen158
-\@IEEEquantizeprevdepth=\dimen159
-\@IEEEquantizemultiple=\count196
-\@IEEEquantizeboxA=\box50
-\@IEEEtmpitemindent=\dimen160
-\IEEEPARstartletwidth=\dimen161
-\c@IEEEbiography=\count197
-\@IEEEtranrubishbin=\box51
-) (C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+) ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
 2.
-
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+ ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-))
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+)) ("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks16
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
-\ex@=\dimen164
+\@emptytoks=\toks17
+\ex@=\dimen160
 ))
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen165
+\pmbraise@=\dimen161
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count198
+\inf@bad=\count182
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count199
-\leftroot@=\count266
+\uproot@=\count183
+\leftroot@=\count184
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count267
-\DOTSCASE@=\count268
+\classnum@=\count185
+\DOTSCASE@=\count186
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-\big@size=\dimen166
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen162
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count269
-\c@MaxMatrixCols=\count270
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
 \dotsspace@=\muskip16
-\c@parentequation=\count271
-\dspbrk@lvl=\count272
-\tag@help=\toks19
-\row@=\count273
-\column@=\count274
-\maxfields@=\count275
-\andhelp@=\toks20
-\eqnshift@=\dimen167
-\alignsep@=\dimen168
-\tagshift@=\dimen169
-\tagwidth@=\dimen170
-\totwidth@=\dimen171
-\lineht@=\dimen172
-\@envbody=\toks21
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks18
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks19
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks20
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen173
-\ar@mcellbox=\box54
-\extrarowheight=\dimen174
-\NC@list=\toks23
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box49
+\extrarowheight=\dimen170
+\NC@list=\toks22
 \extratabsurround=\skip53
 \backup@length=\skip54
-\ar@cellbox=\box55
+\ar@cellbox=\box50
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
-.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf.sty"
 Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
-ty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
-.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
--base.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -273,36 +288,35 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
-
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
-.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)))
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+))
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip55
-\multirow@cntb=\count276
+\multirow@cntb=\count194
 \multirow@dima=\skip56
-\bigstrutjot=\dimen175
+\bigstrutjot=\dimen171
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\subfiles.
+sty"
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\import.sty"
 Package: import 2020/04/01  v 6.2
-))
-(sections/commands.tex)
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+)) (sections/commands.tex)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen176
-\captionmargin@=\dimen177
-\captionwidth=\dimen178
-\caption@tempdima=\dimen179
-\caption@indent=\dimen180
-\caption@parindent=\dimen181
-\caption@hangindent=\dimen182
+\captionmargin=\dimen172
+\captionmargin@=\dimen173
+\captionwidth=\dimen174
+\caption@tempdima=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
@@ -317,26 +331,27 @@ ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
 \else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
 \fi  on input line 1139.
 )
-\c@KVtest=\count277
+\c@KVtest=\count195
 \sf@farskip=\skip57
-\sf@captopadj=\dimen183
+\sf@captopadj=\dimen179
 \sf@capskip=\skip58
 \sf@nearskip=\skip59
-\c@subfigure=\count278
-\c@subfigure@save=\count279
-\c@lofdepth=\count280
-\c@subtable=\count281
-\c@subtable@save=\count282
-\c@lotdepth=\count283
+\c@subfigure=\count196
+\c@subfigure@save=\count197
+\c@lofdepth=\count198
+\c@subtable=\count199
+\c@subtable@save=\count266
+\c@lotdepth=\count267
 \sf@top=\skip60
 \sf@bottom=\skip61
 )
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box56
-) (VALAT Emilien - Manuscript.aux)
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box51
+)
+No file "VALAT Emilien - Manuscript".aux.
 \openout1 = `"VALAT Emilien - Manuscript.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -353,23 +368,22 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-
 -- Lines per column: 58 (exact).
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
-mkii
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen184
-\scratchbox=\box57
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen185
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count269
+\scratchdimen=\dimen180
+\scratchbox=\box52
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen181
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks24
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -387,30 +401,278 @@ LaTeX Warning: No \author given.
 (sections/introduction.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
 
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
-
-(C:\Users\hx21262\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+("C:\Users\emile\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1{C:/Users/hx21262/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+LaTeX Warning: Citation `pathak2016context' on page 1 undefined on input line 1
+7.
+
+
+LaTeX Warning: Citation `goodfellow2014generative' on page 1 undefined on input
+ line 17.
+
+
+LaTeX Warning: Citation `radford2015unsupervised' on page 1 undefined on input 
+line 17.
+
+
+LaTeX Warning: Citation `yeh2016semantic' on page 1 undefined on input line 17.
+
+
+
+LaTeX Warning: Citation `yoo2019sinogram' on page 1 undefined on input line 17.
+
+
+
+LaTeX Warning: Citation `jahanian2019steerability' on page 1 undefined on input
+ line 19.
+
+
+LaTeX Warning: Citation `ronneberger2015u' on page 1 undefined on input line 22
+.
+
+
+LaTeX Warning: Citation `isola2017image' on page 1 undefined on input line 22.
+
+
+LaTeX Warning: Citation `ackerman1998visible' on page 1 undefined on input line
+ 24.
+
+
+LaTeX Warning: Citation `xu2007boundary' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Citation `huang2013iterative' on page 1 undefined on input line 
+24.
+
+
+LaTeX Warning: Citation `abbas2013super' on page 1 undefined on input line 24.
+
+[1{C:/Users/emile/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ])
-(sections/proposedApproach.tex [2]) (sections/Datasets.tex)
-(sections/implementationDetails.tex [3]) (sections/results.tex
+(sections/proposedApproach.tex
+
+LaTeX Warning: Reference `fig:training_procedure_explanation' on page 2 undefin
+ed on input line 5.
+
+
+LaTeX Warning: Citation `radford2015unsupervised' on page 2 undefined on input 
+line 14.
+
+
+LaTeX Warning: Citation `goodfellow2016nips' on page 2 undefined on input line 
+18.
+
+
+LaTeX Warning: Citation `isola2017image' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation `goodfellow2013maxout' on page 2 undefined on input lin
+e 20.
+
+
+LaTeX Warning: Citation `ioffe2015batch' on page 2 undefined on input line 20.
+
+
+LaTeX Warning: Citation `pathak2016context' on page 2 undefined on input line 2
+6.
+
+
+LaTeX Warning: Citation `dupe2011inverse' on page 2 undefined on input line 26.
+
+
+
+LaTeX Warning: Citation `larsen2016autoencoding' on page 2 undefined on input l
+ine 33.
+
+
+LaTeX Warning: Citation `isola2017image' on page 2 undefined on input line 36.
+
+
+LaTeX Warning: Citation `srivastava2014dropout' on page 2 undefined on input li
+ne 36.
+
+
+LaTeX Warning: Reference `encoding_the_shape_prior' on page 2 undefined on inpu
+t line 36.
+
+
+LaTeX Warning: Citation `nair2010rectified' on page 2 undefined on input line 3
+6.
+
+
+LaTeX Warning: Citation `maas2013rectifier' on page 2 undefined on input line 3
+6.
+
+
+LaTeX Warning: Reference `fig:inpainting_method_explanation' on page 2 undefine
+d on input line 53.
+
+
+LaTeX Warning: Reference `encoding_the_shape_prior' on page 2 undefined on inpu
+t line 56.
+
+[2]
+
+LaTeX Warning: Citation `lee2018deep' on page 3 undefined on input line 58.
+
+
+LaTeX Warning: Citation `ronneberger2015u' on page 3 undefined on input line 58
+.
+
+
+LaTeX Warning: Citation `yoo2019sinogram' on page 3 undefined on input line 58.
+
+
+) (sections/Datasets.tex
+
+LaTeX Warning: Citation `coban2015sophiabeads_dataset' on page 3 undefined on i
+nput line 5.
+
+
+LaTeX Warning: Citation `coban2015sophiabeads_codes' on page 3 undefined on inp
+ut line 10.
+
+
+LaTeX Warning: Citation `biguri2016tigre' on page 3 undefined on input line 10.
+
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 3 undefined on inp
+ut line 12.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 3 undefined on inp
+ut line 12.
+
+
+LaTeX Warning: Citation `biguri2016tigre' on page 3 undefined on input line 14.
+
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 3 undefined on inp
+ut line 14.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 3 undefined on inp
+ut line 14.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_sin' on page 3 undefined on input
+ line 14.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_sin' on page 3 undefined on input
+ line 14.
+
+
+LaTeX Warning: Reference `fig:sophia_sin_example' on page 3 undefined on input 
+line 14.
+
+
+LaTeX Warning: Reference `fig:holes_examples' on page 3 undefined on input line
+ 19.
+
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 3 undefined on input line 
+21.
+
+
+LaTeX Warning: Reference `fig:syn_cad_slice' on page 3 undefined on input line 
+21.
+
+
+LaTeX Warning: Citation `jin2017deep' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Citation `adler2017solving' on page 3 undefined on input line 21
+.
+
+
+LaTeX Warning: Citation `kelly2017deep' on page 3 undefined on input line 21.
+
+) (sections/implementationDetails.tex
+
+LaTeX Warning: Reference `fig:sophia_sin_mask' on page 3 undefined on input lin
+e 16.
+
+[3]
+
+LaTeX Warning: Citation `kingma2014Adam' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `goodfellow2016nips' on page 4 undefined on input line 
+20.
+
+
+LaTeX Warning: Citation `sinha2020top' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `yoo2019sinogram' on page 4 undefined on input line 20.
+
+
+
+LaTeX Warning: Citation `yeh2016semantic' on page 4 undefined on input line 20.
+
+
+
+LaTeX Warning: Citation `valat2021codes' on page 4 undefined on input line 20.
+
+) (sections/results.tex
+
+LaTeX Warning: Citation `salimans2016improved' on page 4 undefined on input lin
+e 5.
+
+
+LaTeX Warning: Citation `yoo2019sinogram' on page 4 undefined on input line 5.
+
+
+LaTeX Warning: Citation `lee2018deep' on page 4 undefined on input line 5.
+
 
 LaTeX Warning: Reference `table:results_sophiaBeads_sinograms' on page 4 undefi
 ned on input line 13.
 
 
+LaTeX Warning: Reference `sec:conclusion' on page 4 undefined on input line 13.
+
+
+
+LaTeX Warning: Citation `biguri2016tigre' on page 4 undefined on input line 16.
+
+
+
 LaTeX Warning: Reference `table:results_sophiaBeads_sinograms' on page 4 undefi
 ned on input line 18.
 
-) (sections/conclusion.tex [4]) (sections/bibliography.tex)
-(sections/imagesJCAT.tex
+
+LaTeX Warning: Reference `fig:reconstructions' on page 4 undefined on input lin
+e 18.
+
+
+LaTeX Warning: Reference `fig:images_with_holes' on page 4 undefined on input l
+ine 22.
+
+) (sections/conclusion.tex
+
+LaTeX Warning: Citation `lee2018deep' on page 4 undefined on input line 5.
+
+
+LaTeX Warning: Citation `yeh2016semantic' on page 4 undefined on input line 5.
+
+[4]
+
+LaTeX Warning: Reference `inconsistencies' on page 5 undefined on input line 7.
+
+
+) (sections/bibliography.tex) (sections/imagesJCAT.tex
 <example-image-a.pdf, id=28, 321.2pt x 240.9pt>
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
@@ -428,14 +690,87 @@ File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 25.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 25.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 25.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 28.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 28.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 28.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 31.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 31.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 31.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_sin' on page 5 undefined on input
+ line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_sin' on page 5 undefined on input
+ line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_sin' on page 5 undefined on input
+ line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_sin' on page 5 undefined on input
+ line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_obj_slice' on page 5 undefined on inp
+ut line 32.
+
+
+LaTeX Warning: Reference `fig:sophiabeads_cad_slice' on page 5 undefined on inp
+ut line 32.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 39.
@@ -444,6 +779,22 @@ File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 42.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:sophia_sin_example' on page 5 undefined on input 
+line 42.
+
+
+LaTeX Warning: Reference `fig:sophia_sin_example' on page 5 undefined on input 
+line 42.
+
+
+LaTeX Warning: Reference `fig:sophia_sin_example' on page 5 undefined on input 
+line 43.
+
+
+LaTeX Warning: Reference `fig:sophia_sin_mask' on page 5 undefined on input lin
+e 43.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 50.
@@ -452,14 +803,70 @@ File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 53.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+53.
+
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+53.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 56.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+56.
+
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+56.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 59.
 (pdftex.def)             Requested size: 103.19843pt x 77.39833pt.
+
+LaTeX Warning: Reference `fig:syn_cad_slice' on page 5 undefined on input line 
+59.
+
+
+LaTeX Warning: Reference `fig:syn_cad_slice' on page 5 undefined on input line 
+59.
+
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+60.
+
+
+LaTeX Warning: Reference `fig:syn_cad_slice' on page 5 undefined on input line 
+60.
+
+
+LaTeX Warning: Reference `fig:syn_obj_sin' on page 5 undefined on input line 60
+.
+
+
+LaTeX Warning: Reference `fig:syn_cad_sin' on page 5 undefined on input line 60
+.
+
+
+LaTeX Warning: Reference `fig:syn_obj_slice' on page 5 undefined on input line 
+60.
+
+
+LaTeX Warning: Reference `fig:syn_cad_slice' on page 5 undefined on input line 
+60.
+
+
+LaTeX Warning: Reference `fig:syn_obj_sin' on page 5 undefined on input line 60
+.
+
+
+LaTeX Warning: Reference `fig:syn_cad_sin' on page 5 undefined on input line 60
+.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 67.
@@ -511,6 +918,38 @@ Underfull \hbox (badness 1546) in paragraph at lines 96--96
 []\T1/ptm/m/n/8 (h) |Re-con-struc-tion with miss-
  []
 
+
+LaTeX Warning: Reference `fig:reconstructions128_target' on page 5 undefined on
+ input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_noInterpolation' on page 5 und
+efined on input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_linearInterpolation' on page 5
+ undefined on input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_CadGan' on page 5 undefined on
+ input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_target' on page 5 undefined on
+ input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_noInterpolation' on page 5 und
+efined on input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_linearInterpolation' on page 5
+ undefined on input line 99.
+
+
+LaTeX Warning: Reference `fig:reconstructions128_CadGan' on page 5 undefined on
+ input line 99.
+
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 Package pdftex.def Info: example-image-a.pdf  used on input line 105.
@@ -541,8 +980,80 @@ Underfull \hbox (badness 1383) in paragraph at lines 117--117
 []\T1/ptm/m/n/8 (e) |Dif-fer-ence be-tween
  []
 
-) [5] [6 <C:/Users/hx21262/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-
-image-a.pdf>] [7] (VALAT Emilien - Manuscript.aux)
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_gan' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_gan_tar' on page 5 undefined on input line 
+118.
+
+
+LaTeX Warning: Reference `fig:holes_gan' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_cad' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_cad_tar' on page 5 undefined on input line 
+118.
+
+
+LaTeX Warning: Reference `fig:holes_cad' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_gan' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_gan_tar' on page 5 undefined on input line 
+118.
+
+
+LaTeX Warning: Reference `fig:holes_gan' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_cad' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_cad_tar' on page 5 undefined on input line 
+118.
+
+
+LaTeX Warning: Reference `fig:holes_cad' on page 5 undefined on input line 118.
+
+
+
+LaTeX Warning: Reference `fig:holes_tar' on page 5 undefined on input line 118.
+
+
+) [5] [6 <C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwe/exampl
+e-image-a.pdf>] [7] ("VALAT Emilien - Manuscript.aux")
 
 LaTeX Warning: There were undefined references.
 
@@ -551,34 +1062,34 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5701 strings out of 478699
- 100559 string characters out of 2846013
- 423001 words of memory out of 3000000
- 23683 multiletter control sequences out of 15000+600000
- 511878 words of font info for 130 fonts, out of 8000000 for 9000
+ 5206 strings out of 481002
+ 84730 string characters out of 2900918
+ 342931 words of memory out of 3000000
+ 20906 multiletter control sequences out of 15000+200000
+ 641893 words of font info for 128 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,63p,1875b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
-C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi5.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/hx21262/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hx21262/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/hx21262/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
-s/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmti10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/lm/lmss17.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmb8a.pfb><C:/Users/hx21262/AppData/Local/Programs/MiKTe
-X/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/hx21262/AppData/Local/Programs/Mi
-KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/hx21262/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "VALAT Emilien - Manuscript.pdf" (7 pages, 202311 bytes).
+ 39i,10n,54p,1874b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/emile/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/emile/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emile/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><C:/Users/emile/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/emile/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/emile/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/emile/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/emile
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/e
+mile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "VALAT Emilien - Manuscript.pdf" (7 pages, 191707 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
